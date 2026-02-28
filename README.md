@@ -163,12 +163,14 @@ flutter pub get
 flutter run
 
 ##cost_estimation
-<img width="1536" height="1024" alt="ChatGPT Image Feb 28, 2026, 09_25_41 PM" src="https://github.com/user-attachments/assets/4a30a277-321b-41aa-ae1f-9421d05c9251" />
+<img width="1536" height="1024" alt="ChatGPT Image Feb 28, 2026, 09_25_41 PM" src="https://github.com/user-attachments/assets/4a30a277-321b-41aa-ae1f-9421d05c9251" />(cost.png)
 
 ##architectue
-<img width="1536" height="1024" alt="ChatGPT Image Feb 28, 2026, 09_09_55 PM" src="https://github.com/user-attachments/assets/1b5edf79-7528-4f10-8940-652b1ac07b7d" />
+<img width="1536" height="1024" alt="ChatGPT Image Feb 28, 2026, 09_09_55 PM" src="https://github.com/user-attachments/assets/1b5edf79-7528-4f10-8940-652b1ac07b7d" />(architecture.png)
 
 
 ##work flow
-![Uploading ChatGPT Image Feb 28, 2026, 09_01_36 PM.png…]()
+<img width="1536" height="1024" alt="ChatGPT Image Feb 28, 2026, 09_01_36 PM" src="https://github.com/user-attachments/assets/2e2f54bf-9f80-4113-a8ba-f54cc529d199" />(work_flow.png)
+
+
 
