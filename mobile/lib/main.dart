@@ -8,14 +8,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
   await Firebase.initializeApp(
-    options: const FirebaseOptions(
-      apiKey: "AIzaSyB-gwZQbTyBL45Ziws7pg1_GWdnkIyC8H4",
-      authDomain: "civicsense-ai-38f9d.firebaseapp.com",
-      projectId: "civicsense-ai-38f9d",
-      storageBucket: "civicsense-ai-38f9d.firebasestorage.app",
-      messagingSenderId: "405182532745",
-      appId: "1:405182532745:web:24dbd0db109060d6584a58",
-    ),
+    #your firebase credentials is here
   );
 
   runApp(const MyApp());
