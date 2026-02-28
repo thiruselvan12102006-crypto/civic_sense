@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+serviceAccountKey.json
+
+# Flutter
+build/
+.dart_tool/
+.idea/
+
+# OS
+.DS_Store

@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+ultralytics
+pillow
+pymongo
+firebase-admin
+python-multipart
